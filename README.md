@@ -117,4 +117,4 @@ This project was developed as part of an academic-industry collaboration.
 Data used in this repository is anonymized for confidentiality.
 
 
-!(Poster)[https://github.com/kavyashree017/subcontractor-risk-analysis/blob/main/docs/poster.png]
+![Poster](docs/poster.png)
