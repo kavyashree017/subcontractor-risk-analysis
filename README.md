@@ -100,17 +100,6 @@ The dashboard translates technical model outputs into intuitive visual insights 
 
 ---
 
-## Repository Structure
-
-```
-/data        -> Raw & processed datasets  
-/notebooks   -> Exploratory analysis & model experimentation  
-/src         -> Risk scoring logic implementation  
-/outputs     -> Scoring outputs & visual artifacts  
-```
-
----
-
 ## License
 
 This project was developed as part of an academic-industry collaboration.  
